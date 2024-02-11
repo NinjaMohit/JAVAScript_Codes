@@ -1,4 +1,4 @@
-const btn = document.querySelector('#v2');
+/*const btn = document.querySelector('#v2');
 
 btn.onclick = function () {
     console.log("YOU CLICKED ME!")
@@ -37,3 +37,4 @@ const tasButton = document.querySelector('#tas');
 
 tasButton.addEventListener('click', twist)
 tasButton.addEventListener('click', shout)
+*/
